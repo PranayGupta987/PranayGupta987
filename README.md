@@ -22,28 +22,6 @@ Previously worked as a **Software Development Engineer (SDE) Intern at teleSys S
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-`C++` `Python` `JavaScript` `SQL` `HTML/CSS`
-
-### Frontend
-`React.js` `Tailwind CSS` `Zustand`
-
-### Backend
-`Node.js` `Express.js` `REST APIs` `JWT`
-
-### Databases
-`MongoDB` `PostgreSQL`
-
-### Tools
-`Git` `GitHub` `Postman` `NPM` `VS Code`
-
-### Core CS
-`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
-
----
-
 ## 💼 Experience
 
 ### Software Development Engineer (SDE) Intern
@@ -124,13 +102,13 @@ B.E. — Mechatronics Engineering
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/pranaygupta3012/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://portfolio-website-sigma-six-13.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/pranay_guptaa/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="mailto:pgupta2_be23@thapar.edu">
